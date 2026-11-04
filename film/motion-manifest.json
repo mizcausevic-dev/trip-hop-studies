@@ -1,0 +1,26 @@
+{
+  "title": "Trip-Hop-Inspired",
+  "study": "th01",
+  "bpm": 86,
+  "source_audio": "preview/trip-hop-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "87820d9bffd321d9891347f21feec3875f248c0224db0c8a5ffb60f223b8d2a3",
+  "source_midi": "midi/th01-rain-ledger/th01-rain-ledger-combined.mid",
+  "source_midi_sha256": "6d4dc55156f18aa2c8efbe36d4b69f1b88da1f1fe0c6c989b9b7f1cabad42d59",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "57af37be55b29ef0e2c6af0c2213f2144ad80a3d4e88184ad9a5cc131dc8722c",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "5a48b653fefb5ea9bc3d06ebfbef005f69bcba70e2a8e065e77aea750f3a0f55",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "81abd89dc70c75e8bf8a4acd3ba6f5ad4dde0f3a0303fbdca2cafa26a5f6b17b",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
