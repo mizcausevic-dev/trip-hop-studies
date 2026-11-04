@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+th01,Rain Ledger,pack-local equal-tempered pitch collection,A,86,4/4,480,32,61440,midi/th01-rain-ledger/th01-rain-ledger-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+th02,Second Window,pack-local equal-tempered pitch collection,C,86,4/4,480,32,61440,midi/th02-second-window/th02-second-window-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+th03,Slow Transit,pack-local equal-tempered pitch collection,D#,86,4/4,480,32,61440,midi/th03-slow-transit/th03-slow-transit-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+th04,Paper Horizon,pack-local equal-tempered pitch collection,A#,86,4/4,480,32,61440,midi/th04-paper-horizon/th04-paper-horizon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

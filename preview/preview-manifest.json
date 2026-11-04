@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/trip-hop-studies-simple-synth-preview.mp3",
+  "preview_sha256": "87820d9bffd321d9891347f21feec3875f248c0224db0c8a5ffb60f223b8d2a3",
+  "source_midi_path": "midi/th01-rain-ledger/th01-rain-ledger-combined.mid",
+  "source_midi_sha256": "6d4dc55156f18aa2c8efbe36d4b69f1b88da1f1fe0c6c989b9b7f1cabad42d59",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "th01",
+    "start_seconds": 0,
+    "end_seconds": 89.302
+  },
+  "measurement": {
+    "sample_peak": 0.118438,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
