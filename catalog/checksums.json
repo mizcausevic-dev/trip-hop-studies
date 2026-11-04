@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3490,
+      "sha256": "62a451dc73d1a10328d52c0569963c1128ec0a68515a6eed992216df0b710737"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -63,8 +73,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1567,
-      "sha256": "a2807548ab373131838d1bec31f48bb083593a287b60157544aad9bd5f452101"
+      "bytes": 1789,
+      "sha256": "5a5e101af09a132603a508b92d419fd4f05670e15ad4705f88d606693fd9fc8b"
     },
     {
       "path": "catalog/release-spec.json",
@@ -103,8 +113,8 @@
     },
     {
       "path": "downloads/trip-hop-studies-midi.zip",
-      "bytes": 21796,
-      "sha256": "02aa7a708e7507f0297915a3b488e8cf088e39a9504a7e52cc43f750adaf3568"
+      "bytes": 22844,
+      "sha256": "1518612ac646e3c7d56bc97621ad8e792dfb60e8a811eeec51445b98fefd8ca3"
     },
     {
       "path": "film/poster.jpg",
@@ -273,18 +283,13 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1046,
-      "sha256": "1b1844ee7c8f2a83cf401a857e0365efa42362c190bf88802013d5d433db805c"
+      "bytes": 1129,
+      "sha256": "de50479a75899b0384461d73adcb4b163e2029107e326b807b20a8cd636f3f95"
     },
     {
       "path": "preview/trip-hop-studies-simple-synth-preview.mp3",
       "bytes": 2156713,
       "sha256": "87820d9bffd321d9891347f21feec3875f248c0224db0c8a5ffb60f223b8d2a3"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3329,
-      "sha256": "b0b05e27d4949f5a5585795d71382dbd8e55ae51c3a4f2315c48ac2bca6cca27"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -313,13 +318,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 59060,
-      "sha256": "861349c82200b232d31e67255e5c3f2df3a6d07d478168712163224db1bb785b"
+      "bytes": 59237,
+      "sha256": "4f287a942b42d24d0fdad95868f2b08cf1ef059a4f9c63d5882a461c5dc6efe7"
     },
     {
       "path": "tools/polish_release.py",
