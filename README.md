@@ -55,3 +55,7 @@ The 18-second illustrated film uses the first 18 seconds of the canonical MIDI-d
 ## Renderer metadata correction
 
 See [the correction receipt](RENDERER-METADATA-CORRECTION.md) for the documented signal-path update and original-tag boundary.
+
+## MIDI buyer license
+
+See [MIDI Buyer License v1.0](MIDI-BUYER-LICENSE-v1.0.txt), included in the MIDI download.

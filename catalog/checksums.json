@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 786,
-      "sha256": "dbfb54bf76e98a1422322b061369bc94120776078ca5a944758e7022b725bf1b"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3490,
-      "sha256": "62a451dc73d1a10328d52c0569963c1128ec0a68515a6eed992216df0b710737"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -118,8 +103,8 @@
     },
     {
       "path": "downloads/trip-hop-studies-midi.zip",
-      "bytes": 22844,
-      "sha256": "1518612ac646e3c7d56bc97621ad8e792dfb60e8a811eeec51445b98fefd8ca3"
+      "bytes": 23831,
+      "sha256": "353b1e4007ff1e0ad8fc114a40e6936861f14ae4b0e72cb5707e108df354edbc"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -140,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 31040,
       "sha256": "1bae1240cb2b26a084d02effa26106d21e37e50dfec4a29fce3a61b6dbb57205"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1005233,
-      "sha256": "81abd89dc70c75e8bf8a4acd3ba6f5ad4dde0f3a0303fbdca2cafa26a5f6b17b"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -173,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9356,
-      "sha256": "63a7650a74255f76c703b12d953203fe73b26a2e167809d2901ade59375e19b3"
+      "bytes": 9546,
+      "sha256": "cf4d8c94aeb8513b608b863f65a1534bf39b966e03029402ea940455332b9041"
     },
     {
       "path": "midi/th01-rain-ledger/chord_pulse.mid",
@@ -317,6 +297,16 @@
       "sha256": "70c0be820b503fb379bd513e6570dc3342e48248fb14fd24c2745af1ad82e835"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 786,
+      "sha256": "dbfb54bf76e98a1422322b061369bc94120776078ca5a944758e7022b725bf1b"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1129,
       "sha256": "de50479a75899b0384461d73adcb4b163e2029107e326b807b20a8cd636f3f95"
@@ -325,6 +315,16 @@
       "path": "preview/trip-hop-studies-simple-synth-preview.mp3",
       "bytes": 2156713,
       "sha256": "87820d9bffd321d9891347f21feec3875f248c0224db0c8a5ffb60f223b8d2a3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3605,
+      "sha256": "a40bbe2b4f85bdd84f1dce4fd528169604ca1f1405eecd9cea873cc69e840e1e"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
